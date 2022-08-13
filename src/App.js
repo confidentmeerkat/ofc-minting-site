@@ -5,7 +5,7 @@ function App() {
     <div>
       <div className="flex flex-col h-full w-full absolute">
         <header className="sm:h-28 flex sm:flex-row flex-col sm:justify-between items-center">
-          <img alt="ofc" src="/logo-black.png" className="h-full" />
+          <img alt="Twitter Icon" src="/logo-black.png" className="h-full" />
           <div className="sm:mr-5 mt-3 flex flex-row items-center">
             <a
               href="https://twitter.com/oddfriends_club"
@@ -19,14 +19,14 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              <img alt="ofc" src="/discord-new-48.png" className="h-24" />
+              <img alt="Discord Icon" src="/discord-new-48.png" className="h-24" />
             </a>
             <a
               href="https://www.instagram.com/oddfriends.club/"
               target="_blank"
               rel="noreferrer"
             >
-              <img alt="ofc" src="/instagram-80.png" className="h-24" />
+              <img alt="Instagram Icon" src="/instagram-80.png" className="h-24" />
             </a>
           </div>
         </header>
@@ -38,7 +38,7 @@ function App() {
                 <li className="flex flex-row">
                   <i>
                     <img
-                      alt="ofc"
+                      alt="friends-svg"
                       src="/friends-48.png"
                       className="h-6 mr-2"
                     ></img>
@@ -48,7 +48,7 @@ function App() {
                 <li className="flex flex-row">
                   <i>
                     <img
-                      alt="ofc"
+                      alt="friends-svg"
                       src="/friends-48.png"
                       className="h-6 mr-2"
                     ></img>
@@ -68,7 +68,7 @@ function App() {
                 <li className="flex flex-row">
                   <i>
                     <img
-                      alt="ofc"
+                      alt="friends-svg"
                       src="/friends-48.png"
                       className="h-6 mr-2"
                     ></img>
@@ -78,7 +78,7 @@ function App() {
                 <li className="flex flex-row">
                   <i>
                     <img
-                      alt="ofc"
+                      alt="friends-svg"
                       src="/friends-48.png"
                       className="h-6 mr-2"
                     ></img>
@@ -97,32 +97,32 @@ function App() {
         </div>
 
         <div className="flex flex-row sm:justify-start justify-center">
-          <img src="/123.png" className="h-32"></img>
+          <img alt="5 odd friends" src="/123.png" className="h-32"></img>
         </div>
 
         <footer className="bg-gray-800 text-white py-4 w-full">
-          <img alt="ofc" src="/logo-white.png" className="w-48 float-left" />
+          <img alt="OFC LOGO WHITE" src="/logo-white.png" className="w-48 float-left" />
           <div className="flex flex-row justify-start space-x-8 mt-6 float-right mr-6">
             <a
               href="https://twitter.com/oddfriends_club"
               target="_blank"
               rel="noreferrer"
             >
-              <img alt="ofc" src="/twitter-48.png" className="h-12" />
+              <img alt="Twitter ICON" src="/twitter-48.png" className="h-12" />
             </a>
             <a
               href="https://discord.com/invite/2X9UGY3qPJ"
               target="_blank"
               rel="noreferrer"
             >
-              <img alt="ofc" src="/discord-new-48.png" className="h-12" />
+              <img alt="Discord ICON" src="/discord-new-48.png" className="h-12" />
             </a>
             <a
               href="https://www.instagram.com/oddfriends.club/"
               target="_blank"
               rel="noreferrer"
             >
-              <img alt="ofc" src="/instagram-80.png" className="h-12" />
+              <img alt="Instagram ICON" src="/instagram-80.png" className="h-12" />
             </a>
           </div>
         </footer>
